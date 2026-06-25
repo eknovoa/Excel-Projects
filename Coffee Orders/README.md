@@ -6,7 +6,7 @@ The goal behind this project was to build an interactive Microsoft Excel dashboa
 
 **Data Source:** [Mo Chen YouTube](https://github.com/mochen862/excel-project-coffee-sales)
 **Tools:** Excel 
-**Skills practiced:** Data Cleaning, 
+**Skills practiced:** Data Cleaning/Preparation and Dashboard Building 
 
 ---
 
