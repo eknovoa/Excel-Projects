@@ -4,9 +4,9 @@
 
 The goal behind this project was to build an interactive Microsoft Excel dashboard to allow users to identify trends in coffee bean sales and compare these sales across roast types and countries.
 
-**Data Source:** [Mo Chen YouTube](https://github.com/mochen862/excel-project-coffee-sales)
-**Tools:** Excel 
-**Skills practiced:** Data Cleaning/Preparation and Dashboard Building 
+**Data Source:** [Mo Chen YouTube](https://github.com/mochen862/excel-project-coffee-sales)<br>
+**Tools:** Excel<br>
+**Skills practiced:** Data Cleaning/Preparation and Dashboard Building<br>
 
 ---
 
