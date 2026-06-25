@@ -1,4 +1,4 @@
-# Café Sales — Data Cleaning & Exploration
+# Coffee Shop Sales — Data Cleaning & Dashboard Building
 
 ## Overview
 
